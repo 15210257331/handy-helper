@@ -7,13 +7,13 @@
     "index.d.ts",
     "package.json"
   ],
-  "main": "./dist/handy-helper.umd.cjs",
-  "module": "./dist/handy-helper.js",
+  "main": "./dist/handy-helper.cjs.js",
+  "module": "./dist/handy-helper.es.js",
   "types": "./index.d.ts",
   "exports": {
     "types": "./index.d.ts",
-    "import": "./dist/handy-helper.js",
-    "require": "./dist/handy-helper.umd.cjs"
+    "import": "./dist/handy-helper.es.js",
+    "require": "./dist/handy-helper.cjs.cjs"
   },
   "scripts": {
     "dev": "vite",
