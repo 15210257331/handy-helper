@@ -15,15 +15,20 @@
     "import": "./dist/handy-helper.js",
     "require": "./dist/handy-helper.umd.cjs"
   },
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "build:doc": "tsc && vite build",
+    "release": "release-it"
+  },
   "keywords": [
     "tools",
     "工具函数"
   ],
   "license": "MIT",
-  "scripts": {
-    "dev": "vite",
-    "build": "tsc && vite build",
-    "release": "release-it"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/15210257331/handy-helper"
   },
   "devDependencies": {
     "@release-it/conventional-changelog": "^8.0.1",
