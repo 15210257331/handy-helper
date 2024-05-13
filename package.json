@@ -18,8 +18,10 @@
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
-    "build:doc": "tsc && vite build",
-    "release": "release-it"
+    "release": "release-it",
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
   },
   "keywords": [
     "tools",
@@ -35,5 +37,8 @@
     "release-it": "^17.2.1",
     "typescript": "^5.4.5",
     "vite": "^5.2.10"
+  },
+  "dependencies": {
+    "vitepress": "^1.1.4"
   }
 }
