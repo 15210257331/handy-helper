@@ -1,5 +1,12 @@
 
 
+# [1.2.0](https://github.com/15210257331/handy-helper/compare/v1.1.0...v1.2.0) (2024-05-13)
+
+
+### Features
+
+* readme update ([ea82fce](https://github.com/15210257331/handy-helper/commit/ea82fcef688d86e5c983bf3ebae8b08330953d31))
+
 # 1.1.0 (2024-05-13)
 
 
