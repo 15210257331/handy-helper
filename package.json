@@ -1,0 +1,33 @@
+{
+  "name": "handy-helper",
+  "version": "1.0.1",
+  "type": "module",
+  "files": [
+    "dist",
+    "index.d.ts",
+    "package.json"
+  ],
+  "main": "./dist/handy-helper.umd.cjs",
+  "module": "./dist/handy-helper.js",
+  "types": "./index.d.ts",
+  "exports": {
+    "types": "./index.d.ts",
+    "import": "./dist/handy-helper.js",
+    "require": "./dist/handy-helper.umd.cjs"
+  },
+  "keywords": [
+    "tools",
+    "工具函数"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "release": "release-it"
+  },
+  "devDependencies": {
+    "release-it": "^17.2.1",
+    "typescript": "^5.4.5",
+    "vite": "^5.2.10"
+  }
+}
