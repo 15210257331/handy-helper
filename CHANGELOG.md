@@ -1,5 +1,12 @@
 
 
+# [1.5.0](https://github.com/15210257331/handy-helper/compare/v1.4.0...v1.5.0) (2024-05-15)
+
+
+### Features
+
+* 增加bin测试命令 ([7107725](https://github.com/15210257331/handy-helper/commit/7107725ac058ce6132fa1094fa85bf3eda9a19d0))
+
 # [1.4.0](https://github.com/15210257331/handy-helper/compare/v1.2.0...v1.4.0) (2024-05-15)
 
 
