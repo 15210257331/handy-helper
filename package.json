@@ -36,6 +36,7 @@
     "url": "https://github.com/15210257331/handy-helper"
   },
   "dependencies": {
+    "commander": "^12.0.0",
     "vitepress": "^1.1.4"
   },
   "devDependencies": {
