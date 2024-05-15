@@ -4,14 +4,14 @@
   "type": "module",
   "files": [
     "dist",
-    "index.d.ts",
+    "types",
     "package.json"
   ],
   "main": "./dist/handy-helper.cjs.js",
   "module": "./dist/handy-helper.es.js",
-  "types": "./index.d.ts",
+  "types": "./types/main.d.ts",
   "exports": {
-    "types": "./index.d.ts",
+    "types": "./types/main.d.ts",
     "import": "./dist/handy-helper.es.js",
     "require": "./dist/handy-helper.cjs.cjs"
   },
