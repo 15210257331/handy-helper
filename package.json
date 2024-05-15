@@ -23,6 +23,9 @@
     "docs:build": "vitepress build docs",
     "docs:preview": "vitepress preview docs"
   },
+  "bin": {
+    "demo": "./bin/demo.js"
+  },
   "keywords": [
     "tools",
     "工具函数"
@@ -32,13 +35,13 @@
     "type": "git",
     "url": "https://github.com/15210257331/handy-helper"
   },
+  "dependencies": {
+    "vitepress": "^1.1.4"
+  },
   "devDependencies": {
     "@release-it/conventional-changelog": "^8.0.1",
     "release-it": "^17.2.1",
     "typescript": "^5.4.5",
     "vite": "^5.2.10"
-  },
-  "dependencies": {
-    "vitepress": "^1.1.4"
   }
 }
