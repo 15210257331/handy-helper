@@ -31,4 +31,4 @@ yarn add handy-helper
   console.log(res) // 1,212,312
 ```
 
-更多使用方式详见API文档 [handy-helper APIs](https://129.211.164.125:8888).
+更多使用方式详见API文档 [handy-helper APIs](http://129.211.164.125:8888).
