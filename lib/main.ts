@@ -67,12 +67,12 @@ export const formatNum = (val: string | number) => {
  *  在输入框的输入事件中使用防抖后的函数
  *   document.getElementById('input').addEventListener('input', debouncedHandleInput);
  */
-export function debounce(func: Function, delay: number = 100) {
-  let timer: any
-  return function (...args: any[]) {
-    clearTimeout(timer)
-    timer = setTimeout(() => {
-      func.apply(this, args)
-    }, delay)
-  }
-}
+// export function debounce(func: Function, delay: number = 100) {
+//   let timer: any
+//   return function (...args: any[]) {
+//     clearTimeout(timer)
+//     timer = setTimeout(() => {
+//       func.apply(this, args)
+//     }, delay)
+//   }
+// }
