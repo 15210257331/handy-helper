@@ -1,5 +1,12 @@
 
 
+# [1.7.0](https://github.com/15210257331/handy-helper/compare/v1.6.0...v1.7.0) (2024-05-23)
+
+
+### Features
+
+* 新增构建 ([8db533b](https://github.com/15210257331/handy-helper/commit/8db533b235c7afd5bbc03108a22989ff2b7e0522))
+
 # [1.6.0](https://github.com/15210257331/handy-helper/compare/v1.5.0...v1.6.0) (2024-05-23)
 
 
