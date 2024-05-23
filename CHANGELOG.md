@@ -1,5 +1,12 @@
 
 
+# [1.8.0](https://github.com/15210257331/handy-helper/compare/v1.7.0...v1.8.0) (2024-05-23)
+
+
+### Bug Fixes
+
+* https ==> http ([6d31609](https://github.com/15210257331/handy-helper/commit/6d31609a75fdeddac4ce4520f89314e22aec91ff))
+
 # [1.7.0](https://github.com/15210257331/handy-helper/compare/v1.6.0...v1.7.0) (2024-05-23)
 
 
