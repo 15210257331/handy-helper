@@ -1,5 +1,13 @@
 
 
+# [1.6.0](https://github.com/15210257331/handy-helper/compare/v1.5.0...v1.6.0) (2024-05-23)
+
+
+### Features
+
+* 增加可执行命令 ([0cb6431](https://github.com/15210257331/handy-helper/commit/0cb6431a8e3370927f5ebb056e9d1aef933c3f09))
+* **global:** api 文档完善，模块分类 ([8f9688f](https://github.com/15210257331/handy-helper/commit/8f9688fb5bedb57de4ddd64c2d7f5319a5a618b5))
+
 # [1.5.0](https://github.com/15210257331/handy-helper/compare/v1.4.0...v1.5.0) (2024-05-15)
 
 
