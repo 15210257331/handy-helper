@@ -3,16 +3,15 @@
 layout: home
 
 hero:
-  name: "My Awesome Project"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  name: "简单易用的工具函数库"
+  tagline: handy-helper 提供了一系列常用的辅助函数，帮助开发者更轻松地处理常见的编程任务
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: API文档
+      link: /api
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Examples
+      link: /examples
 
 features:
   - title: Feature A

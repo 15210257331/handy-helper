@@ -21,7 +21,8 @@
     "release": "release-it",
     "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
-    "docs:preview": "vitepress preview docs"
+    "docs:preview": "vitepress preview docs",
+    "prettier": "prettier --write ."
   },
   "bin": {
     "demo": "./bin/demo.js"
@@ -41,6 +42,7 @@
   },
   "devDependencies": {
     "@release-it/conventional-changelog": "^8.0.1",
+    "prettier": "^3.2.5",
     "release-it": "^17.2.1",
     "typescript": "^5.4.5",
     "vite": "^5.2.10"
