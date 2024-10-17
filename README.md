@@ -32,3 +32,5 @@ yarn add handy-helper
 ```
 
 更多使用方式详见API文档 [handy-helper APIs](http://129.211.164.125:8888).
+
+## 开发部署 

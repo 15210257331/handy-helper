@@ -5,6 +5,7 @@
   "files": [
     "dist",
     "types",
+    "lib",
     "package.json"
   ],
   "main": "./dist/handy-helper.cjs.js",
@@ -25,7 +26,7 @@
     "prettier": "prettier --write ."
   },
   "bin": {
-    "demo": "./bin/demo.js"
+    "deploy": "./lib/deploy/index.js"
   },
   "keywords": [
     "tools",
@@ -37,7 +38,10 @@
     "url": "https://github.com/15210257331/handy-helper"
   },
   "dependencies": {
+    "chalk": "^4.1.2",
     "commander": "^12.0.0",
+    "inquirer": "^8.2.4",
+    "ssh2": "^1.9.0",
     "vitepress": "^1.1.4"
   },
   "devDependencies": {
